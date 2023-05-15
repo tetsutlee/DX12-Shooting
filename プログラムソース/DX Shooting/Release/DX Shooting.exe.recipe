@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\fumit\Desktop\DX Shooting\Release\DX Shooting.exe</ProjectOutputs>
+  <ContentFiles>C:\Users\fumit\Desktop\DX Shooting\Release\BasicPixelShader.cso;C:\Users\fumit\Desktop\DX Shooting\Release\BasicVertexShader.cso;C:\Users\fumit\Desktop\DX Shooting\Release\SpritePixelShader.cso;C:\Users\fumit\Desktop\DX Shooting\Release\SpriteVertexShader.cso</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

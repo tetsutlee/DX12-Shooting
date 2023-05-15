@@ -1,0 +1,6 @@
+C:\Users\fumit\Desktop\2nd Year_First Semester\DirectX12\DirectX12GameProject\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.lib
+C:\Users\fumit\Desktop\2nd Year_First Semester\DirectX12\DirectX12GameProject\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.pdb
+C:\Users\fumit\Desktop\DirectX12GameProject\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.lib
+C:\Users\fumit\Desktop\DirectX12GameProject\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.pdb
+C:\Users\fumit\Desktop\新しいフォルダー\DX Shooting\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.lib
+C:\Users\fumit\Desktop\新しいフォルダー\DX Shooting\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.pdb

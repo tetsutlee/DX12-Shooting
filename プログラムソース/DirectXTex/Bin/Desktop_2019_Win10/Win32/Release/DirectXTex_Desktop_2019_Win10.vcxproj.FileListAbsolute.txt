@@ -1,0 +1,1 @@
+C:\Users\fumit\Desktop\DirectX12GameProject\DirectXTex\Bin\Desktop_2019_Win10\Win32\Release\DirectXTex.lib

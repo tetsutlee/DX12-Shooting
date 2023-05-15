@@ -1,0 +1,4 @@
+C:\Users\fumit\Desktop\DX Shooting\Release\BasicPixelShader.cso
+C:\Users\fumit\Desktop\DX Shooting\Release\BasicVertexShader.cso
+C:\Users\fumit\Desktop\DX Shooting\Release\SpritePixelShader.cso
+C:\Users\fumit\Desktop\DX Shooting\Release\SpriteVertexShader.cso
